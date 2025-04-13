@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abra8888
+- 👋 Hi, I’m @abrar talha
 - 👀 I’m interested in Ethics hacking, Networking, Web development and Application development
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on new projects in same field or newone 
